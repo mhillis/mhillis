@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhillis
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning FullStack Web Devlopment using M.E.A.N stack
+- 👀 I’m interested in full stack web development, Cybersecurity.
+- 🌱 I’m currently learning new technologies and learning new things
 - 💞️ I’m looking to collaborate on fullstack web projects
 
 <!---
